@@ -1,13 +1,186 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ .text-color{
+    color: rgb(0, 200, 255);
+ }
+
+ .gradient-text { 
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+  font-weight: 500;
+} 
+
+ .gradient-bg { 
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+} 
+
+.navbar-link{
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 18px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.button{
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+  border-radius: 5px;
+  border: 2px solid  white;
+  padding: 8px 15px;
+  color: white;
+  font-size: 16px;
+}
+
+
+.social-links {
+    position: absolute;
+    right: 10px;
+    width: 50px;
+    align-self: center;
+}
+
+.social-links img{
+  border: 2px solid white;
+}
+
+.text{
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.typing{
+color: white;
+overflow:hidden;
+white-space:nowrap;
+border-right:3px solid;
+animation:typing 5s steps(25) infinite;
+}
+
+@keyframes typing{
+0%{width:0}
+50%{width:23ch}
+100%{width:0}
+}
+
+.card{
+  background: rgb(55 65 81 / var(--tw-bg-opacity, 1));
+  border-radius: 10px;
+  padding: 10px 20px;
+  gap: 10px;
+  justify-items: center;
+  text-align: center;
+  width: 170px;
+  transition: all 0.3s ease;
+}
+
+.card span{
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.card:hover{
+  box-shadow: 0 0 10px rgb(59 130 246);
+  transform: translateY(-10px);
+}
+
+.background {
+    justify-self: center;
+    margin: 20px;
+    overflow: hidden;
+    position: relative;
+    height: 325px !important;
+    width: 457px;
+}
+
+.background img{
+  justify-self: center;
+  padding: 50px 25px;
+  object-fit: cover;
+}
+
+.overlay{
+position:absolute;
+bottom:-100%;
+left:0;
+width:100%;
+height:100%;
+background:rgb(31, 41, 55);
+color:white;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+transition:.5s;
+}
+
+.background:hover .overlay{
+bottom:0;
+}
+
+.projects{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.certificates{
+  place-content: center;
+}
+
+.certificate-card{
+  justify-items: center;
+  text-align: center;
+  line-height: 3;
+  width: 360px;
+  background: rgb(31 41 55 / var(--tw-bg-opacity, 1));
+  border-radius: 10px;
+  padding: 40px 20px;
+  transition: all 0.3s ease;
+}
+
+.contact-info{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px 150px;
+  padding: 40px 20px;
+}
+
+.contact-card{
+  color: white;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+}
+
+.contact-card img{
+  padding: 5px;
+  margin-right: 20px;
+  border: 2px solid white;
+  background: linear-gradient(325deg, #00E5FF, #9c7ffa);
+}
+
+.contact-form{
+  border-radius: 5px;
+  padding: 20px 10px;
+  box-shadow: 0 0 7px rgb(255, 255, 255);
+}
+
+input, textarea{
+  display: block;
+  margin: 25px;
+  padding: 5px 10px;
+  width: 280px;
+}
+
+button{
+  position: relative;
+  left: 140px;
 }
