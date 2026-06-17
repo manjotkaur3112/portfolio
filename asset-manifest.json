@@ -1,11 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.02c3eec8.css",
-    "main.js": "/portfolio/static/js/main.3d3380e1.js",
+    "main.css": "/portfolio/static/css/main.c5195347.css",
+    "main.js": "/portfolio/static/js/main.f8eaab48.js",
     "static/js/453.a7d99afe.chunk.js": "/portfolio/static/js/453.a7d99afe.chunk.js",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.8a45cdd6e3e6ca24fc48.png",
     "static/media/complaint.png": "/portfolio/static/media/complaint.d5eee1e76a4eed9211d2.png",
     "static/media/myImage.jpeg": "/portfolio/static/media/myImage.5e8f16d93d744d1d4711.jpeg",
+    "static/media/Php_development.png": "/portfolio/static/media/Php_development.dec86c99f82c5b53fb0e.png",
     "static/media/mfa.png": "/portfolio/static/media/mfa.720a4b71e6ef3682b549.png",
+    "static/media/Azure_ai_engineer_associate.jpg": "/portfolio/static/media/Azure_ai_engineer_associate.2bcfa26e856dc2352948.jpg",
+    "static/media/Azure_data_fundamentals.jpg": "/portfolio/static/media/Azure_data_fundamentals.35c8e3f458ca33daa4c4.jpg",
+    "static/media/Azure_ai_fundamentals.jpg": "/portfolio/static/media/Azure_ai_fundamentals.ce3b62eeb129a7c16d91.jpg",
+    "static/media/Azure_fundamentals.jpg": "/portfolio/static/media/Azure_fundamentals.9715535cecf6f706f5d2.jpg",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.1a270610b6a52926a975.pdf",
     "static/media/node.svg": "/portfolio/static/media/node.0e8523d79dc572e11a1c23d8134b9c95.svg",
     "static/media/react.svg": "/portfolio/static/media/react.844134141fc12ef9d2f861f4ce990852.svg",
@@ -29,12 +35,12 @@
     "static/media/c.svg": "/portfolio/static/media/c.e8e41f2c60141e8ac35920ca245dbfe9.svg",
     "static/media/html.svg": "/portfolio/static/media/html.7dbcefab6d156c0de5fbec3b60476431.svg",
     "static/media/mongodb.svg": "/portfolio/static/media/mongodb.81cc3e4d810375f52e0c14da656437e8.svg",
-    "main.02c3eec8.css.map": "/portfolio/static/css/main.02c3eec8.css.map",
-    "main.3d3380e1.js.map": "/portfolio/static/js/main.3d3380e1.js.map",
+    "main.c5195347.css.map": "/portfolio/static/css/main.c5195347.css.map",
+    "main.f8eaab48.js.map": "/portfolio/static/js/main.f8eaab48.js.map",
     "453.a7d99afe.chunk.js.map": "/portfolio/static/js/453.a7d99afe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02c3eec8.css",
-    "static/js/main.3d3380e1.js"
+    "static/css/main.c5195347.css",
+    "static/js/main.f8eaab48.js"
   ]
 }
