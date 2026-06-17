@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div>
       <div className='text-white bg-gray-800 py-5'>
-        <p className='justify-self-center'>© 2026 Manjot Kaur. All rights reserved. Built with React.js and passion for creating impactful web experiences.</p>
+        <p className='justify-self-center'>© 2026 Manjot Kaur. All rights reserved.</p>
       </div>
     </div>
   )

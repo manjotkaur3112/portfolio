@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import About from './pages/About';
 import Education  from './pages/Education';
-import Skills from './pages/Skiils';
+import Skills from './pages/Skills';
 import Projects from './pages/Projects'
 import Certificates from './pages/Certificates';
 import Contact from './pages/Contact';
@@ -15,14 +15,16 @@ function App() {
   return (
     <>
       <Navbar />
-      <Home />
-      <About />
-      <Education />
-      <Skills />
-      <Projects />
-      <Certificates />
-      <Contact />
-      <Footer />
+      <div className='pt-20'>
+        <Home />
+        <About />
+        <Education />
+        <Skills />
+        <Projects />
+        <Certificates />
+        <Contact />
+        <Footer />
+      </div>
     </>
   );
 }
