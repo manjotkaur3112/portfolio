@@ -30,7 +30,7 @@ My portfolio reflects my journey as a Computer Science student passionate about 
 
 # 🚀 Live Demo
 
-🔗 **Portfolio:**[ https://your-live-demo.vercel.app](https://manjotkaur3112.github.io/portfolio/)
+🔗 **Portfolio:**[(https://manjotkaur3112.github.io/portfolio](https://manjotkaur3112.github.io/portfolio/)
 
 ---
 
