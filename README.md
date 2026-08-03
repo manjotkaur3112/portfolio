@@ -3,21 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Generative+AI+Enthusiast;Full+Stack+Developer;Python+%7C+React+%7C+Machine+Learning" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/manjotkaur3112">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/manjot-kaur31/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:manjotkaur311205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
 ---
 
 # 🌐 Portfolio Website
@@ -30,7 +15,7 @@ My portfolio reflects my journey as a Computer Science student passionate about 
 
 # 🚀 Live Demo
 
-🔗 **Portfolio:**[(https://manjotkaur3112.github.io/portfolio](https://manjotkaur3112.github.io/portfolio/)
+🔗 **Portfolio:** [(https://manjotkaur3112.github.io/portfolio](https://manjotkaur3112.github.io/portfolio/)
 
 ---
 
