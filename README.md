@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Generative+AI+Enthusiast;Full+Stack+Developer;Python+%7C+React+%7C+Machine+Learning" />
 </p>
----
 
 # 🌐 Portfolio Website
 
