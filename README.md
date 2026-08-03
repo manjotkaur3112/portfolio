@@ -30,15 +30,7 @@ My portfolio reflects my journey as a Computer Science student passionate about 
 
 # 🚀 Live Demo
 
-🔗 **Portfolio:** https://your-live-demo.vercel.app
-
----
-
-# 📸 Preview
-
-<p align="center">
-<img src="images/portfolio.png" width="100%">
-</p>
+🔗 **Portfolio:**[ https://your-live-demo.vercel.app](https://manjotkaur3112.github.io/portfolio/)
 
 ---
 
@@ -66,10 +58,6 @@ My portfolio reflects my journey as a Computer Science student passionate about 
 - HTML5
 - CSS3
 - Tailwind CSS
-
-### Deployment
-
-- Vercel
 
 ### Version Control
 
@@ -129,37 +117,6 @@ Build project
 ```bash
 npm run build
 ```
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Mutual Fund Advisor
-
-An AI-powered recommendation system that predicts expected mutual fund returns and suggests suitable investment options.
-
-**Tech Used**
-
-- Python
-- Flask
-- Machine Learning
-- Scikit-learn
-- React
-- Pandas
-
----
-
-### 😊 Emotion Detection System
-
-Real-time facial emotion recognition using Machine Learning and OpenCV.
-
-**Tech Used**
-
-- Python
-- OpenCV
-- Flask
-- Scikit-learn
-- NumPy
 
 ---
 
