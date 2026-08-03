@@ -1,70 +1,228 @@
-# Getting Started with Create React App
+# 👋 Hi, I'm Manjot Kaur
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Generative+AI+Enthusiast;Full+Stack+Developer;Python+%7C+React+%7C+Machine+Learning" />
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://github.com/manjotkaur3112">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 
-In the project directory, you can run:
+  <a href="https://www.linkedin.com/in/manjot-kaur31/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-### `npm start`
+  <a href="mailto:manjotkaur311205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 🌐 Portfolio Website
 
-### `npm test`
+This repository contains my personal developer portfolio built using modern web technologies. It showcases my projects, technical skills, education, and experience in software development, AI, and machine learning.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+My portfolio reflects my journey as a Computer Science student passionate about building intelligent applications and user-friendly web experiences.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 🚀 Live Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🔗 **Portfolio:** https://your-live-demo.vercel.app
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+# 📸 Preview
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="center">
+<img src="images/portfolio.png" width="100%">
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# ✨ Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Responsive UI
+- Modern Design
+- Smooth Animations
+- Project Showcase
+- Skills Section
+- About Me
+- Contact Section
+- Mobile Friendly
+- Fast Loading
+- Clean User Experience
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 🛠 Tech Stack
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Frontend
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Vercel
 
-### `npm run build` fails to minify
+### Version Control
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Git
+- GitHub
+
+---
+
+# 📂 Project Structure
+
+```
+portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/manjotkaur3112/portfolio.git
+```
+
+Move into project directory
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run development server
+
+```bash
+npm run dev
+```
+
+Build project
+
+```bash
+npm run build
+```
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Mutual Fund Advisor
+
+An AI-powered recommendation system that predicts expected mutual fund returns and suggests suitable investment options.
+
+**Tech Used**
+
+- Python
+- Flask
+- Machine Learning
+- Scikit-learn
+- React
+- Pandas
+
+---
+
+### 😊 Emotion Detection System
+
+Real-time facial emotion recognition using Machine Learning and OpenCV.
+
+**Tech Used**
+
+- Python
+- OpenCV
+- Flask
+- Scikit-learn
+- NumPy
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing my work, technical skills, and achievements.
+
+---
+
+# 👩‍💻 About Me
+
+I'm a Computer Science Engineering student with a strong interest in
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Generative AI
+- React Development
+
+I enjoy transforming ideas into practical applications that solve real-world problems through clean and efficient code.
+
+---
+
+# 📈 Future Improvements
+
+- Dark/Light Theme Toggle
+- Blog Section
+- Project Filtering
+- Resume Download
+- Interactive Animations
+- Visitor Counter
+- Contact Form Backend
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/manjotkaur3112">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manjot-kaur31/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:manjotkaur311205@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+It motivates me to keep building more exciting projects!
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Manjot Kaur</b>
+</p>
